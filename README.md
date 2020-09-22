@@ -1,2 +1,2 @@
-# crickbeast.github.io
+# moviezbeast.github.io
 GitHub Pages
